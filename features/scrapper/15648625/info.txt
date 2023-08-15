@@ -1,0 +1,1 @@
+{"productId":"15648625","priceUSD":"1,700","priceGEL":"4,450","floor":"","bedrooms":2,"rooms":3,"area":"140.00 m²"}
