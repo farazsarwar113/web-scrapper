@@ -1,0 +1,1 @@
+{"title":"Newly finished apartment for rent","address":"I. Chavchavadze Avenue, Vake, Vake District, Tbilisi","productId":"15377131","priceUSD":"2,500","priceGEL":"6,560","bedrooms":2,"rooms":3,"area":"124.00 m²","description":"","location":{"lat":41.715007759636,"lng":44.744815555845},"flatFloor":7,"totalFloors":24}

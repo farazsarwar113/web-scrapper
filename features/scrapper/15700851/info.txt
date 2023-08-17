@@ -1,0 +1,1 @@
+{"title":"Newly finished apartment for rent","address":"Didi Digomi, Saburtalo District, Tbilisi","productId":"15700851","priceUSD":"1,000","priceGEL":"2,620","bedrooms":2,"rooms":4,"area":"130.00 m²","description":"","location":{"lat":41.795842679133,"lng":44.748898646541},"flatFloor":7,"totalFloors":7}

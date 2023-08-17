@@ -1,0 +1,1 @@
+{"title":"Older finished apartment for rent","address":"R. Tabukashvili Lane, Garetubani, Mtatsminda District, Tbilisi","productId":"15666798","priceUSD":"950","priceGEL":"2,490","bedrooms":1,"rooms":2,"area":"80.00 m²","description":"","location":{"lat":41.701448651708,"lng":44.798306381724},"flatFloor":4,"totalFloors":5}
